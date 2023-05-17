@@ -1,0 +1,42 @@
+//let myArray = ['bob','alice','john','jane','mercy']
+
+//for(let i=0; i<myArray.length; i++) {
+  //  console.log(myArray[i])
+//}
+
+//for each
+//myArray.foreach((people)=>{
+   // console.log(people)
+//}
+//)
+//myArray.foreach(
+  //  function(people,index){
+    //    console.log(people,index)
+    //}
+//)
+//myArray.forEach(
+    //function (person, index){
+      //  if(person==='bob' ||person === 'jane'){
+        // console.log (person,index)
+        //}
+    //}
+//)
+
+//while loop
+//let i= 10;
+//while(1<=10){
+  //  console.log(i)
+    //i++;
+//}
+
+//do while loop
+//do{
+  //  console.log(i)
+    //i--
+//}while(i < 10 && i>=0)
+
+
+
+
+
+
